@@ -3,7 +3,7 @@
 
 - Goals:  
     - Batch  
-    - Linux  
+    - Kali  
     - Javascript  
 
 - Best repositories  
